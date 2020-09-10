@@ -1,0 +1,283 @@
+"0","library(tidyverse)
+"
+"2","package ‘tidyverse’ was built under R version 3.6.3"
+"2","Registered S3 methods overwritten by 'dbplyr':
+  method         from
+  print.tbl_lazy     
+  print.tbl_sql      
+"
+"2","[37m-- [1mAttaching packages[22m --------------------------------------- tidyverse 1.3.0 --[39m
+"
+"2","[37m[32m<U+221A>[37m [34mggplot2[37m 3.2.1     [32m<U+221A>[37m [34mpurrr  [37m 0.3.3
+[32m<U+221A>[37m [34mtibble [37m 2.1.3     [32m<U+221A>[37m [34mdplyr  [37m 0.8.4
+[32m<U+221A>[37m [34mtidyr  [37m 1.0.2     [32m<U+221A>[37m [34mstringr[37m 1.4.0
+[32m<U+221A>[37m [34mreadr  [37m 1.3.1     [32m<U+221A>[37m [34mforcats[37m 0.5.0[39m
+"
+"2","package ‘tidyr’ was built under R version 3.6.3"
+"2","[37m-- [1mConflicts[22m ------------------------------------------ tidyverse_conflicts() --
+[31mx[37m [34mdplyr[37m::[32mfilter()[37m masks [34mstats[37m::filter()
+[31mx[37m [34mdplyr[37m::[32mlag()[37m    masks [34mstats[37m::lag()[39m
+"
+"0","library(ROCR)"
+"0","library(mice)"
+"2","package ‘mice’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘mice’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    cbind, rbind
+
+"
+"0","library(VIM)"
+"2","package ‘VIM’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: colorspace
+"
+"2","Zorunlu paket yükleniyor: grid
+"
+"2","Zorunlu paket yükleniyor: data.table
+"
+"2","data.table 1.12.8 using 2 threads (see ?getDTthreads).  Latest news: r-datatable.com
+"
+"2","
+Attaching package: ‘data.table’
+
+"
+"2","The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    transpose
+
+"
+"2","VIM is ready to use. 
+ Since version 4.0.0 the GUI is in its own package VIMGUI.
+
+          Please use the package to use the new (and old) GUI.
+
+"
+"2","Suggestions and bug-reports can be submitted at: https://github.com/alexkowa/VIM/issues
+"
+"2","
+Attaching package: ‘VIM’
+
+"
+"2","The following object is masked from ‘package:datasets’:
+
+    sleep
+
+"
+"0","library(BaylorEdPsych)"
+"0","library(DMwR) #knn "
+"2","package ‘DMwR’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: lattice
+"
+"2","Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+"
+"2","
+Attaching package: ‘DMwR’
+
+"
+"2","The following object is masked from ‘package:VIM’:
+
+    kNN
+
+"
+"0","library(missForest) #rf"
+"2","package ‘missForest’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: randomForest
+"
+"2","package ‘randomForest’ was built under R version 3.6.3"
+"2","randomForest 4.6-14
+"
+"2","Type rfNews() to see new features/changes/bug fixes.
+"
+"2","
+Attaching package: ‘randomForest’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    combine
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    margin
+
+"
+"2","Zorunlu paket yükleniyor: foreach
+"
+"2","package ‘foreach’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘foreach’
+
+"
+"2","The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+"
+"2","Zorunlu paket yükleniyor: itertools
+"
+"2","package ‘itertools’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: iterators
+"
+"2","package ‘iterators’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘missForest’
+
+"
+"2","The following object is masked from ‘package:VIM’:
+
+    nrmse
+
+"
+"0","library(caret)"
+"2","package ‘caret’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘caret’
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    lift
+
+"
+"0","library(mclust)"
+"2","package ‘mclust’ was built under R version 3.6.3"
+"2","    __  ___________    __  _____________
+   /  |/  / ____/ /   / / / / ___/_  __/
+  / /|_/ / /   / /   / / / /\__ \ / /   
+ / /  / / /___/ /___/ /_/ /___/ // /    
+/_/  /_/\____/_____/\____//____//_/    version 5.4.6
+Type 'citation(""mclust"")' for citing this R package in publications.
+"
+"2","
+Attaching package: ‘mclust’
+
+"
+"2","The following object is masked from ‘package:VIM’:
+
+    diabetes
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    map
+
+"
+"0","library(ggfortify)"
+"2","package ‘ggfortify’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘ggfortify’
+
+"
+"2","The following object is masked from ‘package:DMwR’:
+
+    unscale
+
+"
+"0","library(PerformanceAnalytics)"
+"2","package ‘PerformanceAnalytics’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: xts
+"
+"2","package ‘xts’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: zoo
+"
+"2","package ‘zoo’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘zoo’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+"
+"2","
+Attaching package: ‘xts’
+
+"
+"2","The following objects are masked from ‘package:data.table’:
+
+    first, last
+
+"
+"2","The following objects are masked from ‘package:dplyr’:
+
+    first, last
+
+"
+"2","
+Attaching package: ‘PerformanceAnalytics’
+
+"
+"2","The following object is masked from ‘package:gplots’:
+
+    textplot
+
+"
+"2","The following object is masked from ‘package:graphics’:
+
+    legend
+
+"
+"0","library(funModeling)"
+"2","package ‘funModeling’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: Hmisc
+"
+"2","package ‘Hmisc’ was built under R version 3.6.3"
+"2","Zorunlu paket yükleniyor: survival
+"
+"2","
+Attaching package: ‘survival’
+
+"
+"2","The following object is masked from ‘package:caret’:
+
+    cluster
+
+"
+"2","Zorunlu paket yükleniyor: Formula
+"
+"2","Registered S3 methods overwritten by 'htmltools':
+  method               from         
+  print.html           tools:rstudio
+  print.shiny.tag      tools:rstudio
+  print.shiny.tag.list tools:rstudio
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","
+Attaching package: ‘Hmisc’
+
+"
+"2","The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+"
+"2","funModeling v.1.9.3 :)
+Examples and tutorials at livebook.datascienceheroes.com
+ / Now in Spanish: librovivodecienciadedatos.ai
+"
+"0","library(randomForest)"
+"0","library(gbm)"
+"2","package ‘gbm’ was built under R version 3.6.3"
+"2","Loaded gbm 2.1.5
+"
+"0","library(ggplot2)"

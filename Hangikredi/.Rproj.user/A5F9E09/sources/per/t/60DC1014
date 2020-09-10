@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598612363772.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2620796351",
+    "id" : "60DC1014",
+    "lastKnownWriteTime" : 1599696515,
+    "last_content_update" : 1599696515895,
+    "path" : "C:/Users/user/Desktop/R_Projeler/Hangikredi/Hangikredi/HangiKredi.Rmd",
+    "project_path" : "HangiKredi.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "883,0",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "867",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

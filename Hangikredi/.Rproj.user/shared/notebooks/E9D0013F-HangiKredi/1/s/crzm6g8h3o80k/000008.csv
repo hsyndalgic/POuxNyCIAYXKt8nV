@@ -1,0 +1,8 @@
+"0","plot(gbm_fit$finalModel)
+"
+"2","min için eksik olmayan argüman yok; Inf döndürülüyor"
+"2","max için eksik olmayan argüman yok; -Inf döndürülüyor"
+"2","min için eksik olmayan argüman yok; Inf döndürülüyor"
+"2","max için eksik olmayan argüman yok; -Inf döndürülüyor"
+"2","Error in plot.window(...) : sonlu 'xlim' deÄŸerleri gerekli
+"
